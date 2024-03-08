@@ -14,6 +14,7 @@ Felipe Kurt Pohling - Fullstack Developer
 - 📖 **Bacharelado em Sistemas da Informação**\
 📆 2023 - cursando\
 📍 **UTFPR - Universidade Técnologica Federal do Paraná** - Francisco Beltrão, Brazil
+</details>
 
 <h2>Frameworks: </h2>
 <div style="display: inline_block"><br>
