@@ -28,6 +28,18 @@ Felipe Kurt Pohling - Fullstack Developer
   <a href="https://www.linkedin.com/in/felipe-kurt-pohling-543b47259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+- 📖 **Técnico em Desenvolvimento de Sistemas**\
+📆 2020 - 2022\
+📍 **ETESP - Etec de São Paulo** - São Paulo, Brazil
+
+- 📖 **Bacharelado em Sistemas da Informação**\
+📆 2023 - cursando\
+📍 **UTFPR - Universidade Técnologica Federal do Paraná** - Francisco Beltrão, Brazil
 
 <!--
 **Kzrtt/Kzrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
