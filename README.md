@@ -4,7 +4,7 @@ Felipe Kurt Pohling - Fullstack Developer
   <summary>📃 Resume</summary>
 
 
-## Education
+## Educação
 - 📖 **Técnico em Desenvolvimento de Sistemas**\
 📆 2020 - 2022\
 📍 **ETESP - Etec de São Paulo** - São Paulo, Brazil
@@ -12,6 +12,28 @@ Felipe Kurt Pohling - Fullstack Developer
 - 📖 **Bacharelado em Sistemas da Informação**\
 📆 2023 - cursando\
 📍 **UTFPR - Universidade Técnologica Federal do Paraná** - Francisco Beltrão, Brazil
+
+## Cursos Complementares
+- 📖 **Dart lang do básico ao avançado + Api Rest!**\
+🕗 **17 Horas
+📍 **Udemy
+
+- 📖 **Desenvolvimento Android e IOS com flutter 2022 - Cire 15 Apps**\
+🕗 **67,5 Horas
+📍 **Udemy
+
+- 📖 **Aprenda Flutter e desenvolva Apps Para Android e IOS 2022**\
+🕗 **60 Horas
+📍 **Udemy
+
+- 📖 **Node.js do Zero a Maestria com diversos Projetos**\
+🕗 **38 Horas
+📍 **Udemy
+
+- 📖 **React Native Criando aplicativos do zero ao avançado**\
+🕗 **24,5 Horas
+📍 **Udemy
+
 </details>
 
 <br>
