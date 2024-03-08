@@ -2,8 +2,6 @@ Felipe Kurt Pohling - Fullstack Developer
 - 🔭 Atualmente estou trabalhando **como FullStack (Flutter & PHP)**
 - 🌱 Atualmente estou aprendendo **React Native e Node.js**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzrtt&theme=dracula&hide_border=false&&layout=compact"/>
-
 <details>
   <summary>📜 Ensino</summary>
 
@@ -50,6 +48,8 @@ Felipe Kurt Pohling - Fullstack Developer
   📆 feveiro/2024 - aberto\
   📍 **Inovatio Solucoes e Tecnologia em Medicina LTDA** - Francisco Beltrão, Brazil
 </details>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzrtt&theme=dracula&hide_border=false&&layout=compact"/>
 
 <h2>Frameworks: </h2>
 <div style="display: inline_block"><br>
