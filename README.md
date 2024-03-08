@@ -1,7 +1,7 @@
 Felipe Kurt Pohling - Fullstack Developer
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📜 Ensino</summary>
 
 
 ## Educação
@@ -33,10 +33,19 @@ Felipe Kurt Pohling - Fullstack Developer
 - 📖 **React Native Criando aplicativos do zero ao avançado**\
 🕗 **24,5 Horas**\
 📍 **Udemy**
-
 </details>
 
-<br>
+<details>
+  <summary>🧑‍💼 Experiência Profissional</summary>
+
+  - 📖 **Estágiario de Programação**\
+  📆 setembro/2023 - janeiro/2024\
+  📍 **Imaxis** - Francisco Beltrão, Brazil
+
+  - 📖 **Programador Mobile**\
+  📆 feveiro/2024 - aberto\
+  📍 **Inovatio Solucoes e Tecnologia em Medicina LTDA** - Francisco Beltrão, Brazil
+</details>
 
 <h2>Frameworks: </h2>
 <div style="display: inline_block"><br>
