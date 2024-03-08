@@ -2,6 +2,9 @@ Felipe Kurt Pohling - Fullstack Developer
 - 🔭 Atualmente estou trabalhando **como FullStack (Flutter & PHP)**
 - 🌱 Atualmente estou aprendendo **React Native e Node.js**
 
+<br>
+
+<h2>Sobre Mim</h2>
 <details>
   <summary>📜 Ensino</summary>
 
