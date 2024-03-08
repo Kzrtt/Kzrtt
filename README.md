@@ -28,6 +28,8 @@ Felipe Kurt Pohling - Fullstack Developer
   <a href="https://www.linkedin.com/in/felipe-kurt-pohling-543b47259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
+
 <details>
   <summary>📃 Resume</summary>
 
