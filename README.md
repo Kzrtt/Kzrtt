@@ -15,24 +15,24 @@ Felipe Kurt Pohling - Fullstack Developer
 
 ## Cursos Complementares
 - 📖 **Dart lang do básico ao avançado + Api Rest!**\
-🕗 **17 Horas\
-📍 **Udemy
+🕗 **17 Horas**\
+📍 **Udemy**
 
 - 📖 **Desenvolvimento Android e IOS com flutter 2022 - Cire 15 Apps**\
-🕗 **67,5 Horas\
-📍 **Udemy
+🕗 **67,5 Horas**\
+📍 **Udemy**
 
 - 📖 **Aprenda Flutter e desenvolva Apps Para Android e IOS 2022**\
-🕗 **60 Horas\
-📍 **Udemy
+🕗 **60 Horas**\
+📍 **Udemy**
 
 - 📖 **Node.js do Zero a Maestria com diversos Projetos**\
-🕗 **38 Horas\
-📍 **Udemy
+🕗 **38 Horas**\
+📍 **Udemy**
 
 - 📖 **React Native Criando aplicativos do zero ao avançado**\
-🕗 **24,5 Horas\
-📍 **Udemy
+🕗 **24,5 Horas**\
+📍 **Udemy**
 
 </details>
 
