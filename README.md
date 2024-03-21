@@ -53,7 +53,7 @@ Felipe Kurt Pohling - Fullstack Developer
 <br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/waka-time/?username=kzrtt&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kzrtt&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzrtt&theme=dracula&hide_border=false&&layout=compact"/>
 </div>
 
