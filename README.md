@@ -45,7 +45,7 @@ Felipe Kurt Pohling - Fullstack Developer
   📆 setembro/2023 - janeiro/2024\
   📍 **Imaxis** - Francisco Beltrão, Brazil
 
-  - 📖 **Programador Mobile**\
+  - 📖 **Programador de Multimidia**\
   📆 feveiro/2024 - aberto\
   📍 **Inovatio Solucoes e Tecnologia em Medicina LTDA** - Francisco Beltrão, Brazil
 </details>
