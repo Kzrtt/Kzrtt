@@ -49,6 +49,10 @@
   - 📖 **Programador de Multimidia**\
   📆 feveiro/2024 - aberto\
   📍 **Inovatio Solucoes e Tecnologia em Medicina LTDA** - Francisco Beltrão, Brazil
+
+  - 📖 **Desenvolvedor Júnior**\
+  📆 dezembro/2024 - aberto\
+  📍 **Imaxis** - Francisco Beltrão, Brazil
 </details>
 
 <br>
