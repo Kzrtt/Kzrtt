@@ -51,7 +51,7 @@
   📍 **Inovatio Solucoes e Tecnologia em Medicina LTDA** - Francisco Beltrão, Brazil
 
   - 📖 **Desenvolvedor Júnior**\
-  📆 dezembro/2024 - aberto\
+  📆 novembro/2024 - aberto\
   📍 **Imaxis** - Francisco Beltrão, Brazil
 </details>
 
