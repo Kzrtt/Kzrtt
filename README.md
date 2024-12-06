@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120"/>
 <h2>Felipe Kurt Pohling - Fullstack Developer</h2>
-<li>🔭 Atualmente estou trabalhando como <strong>FullStack (Flutter && PHP && JQuery)</strong></li>
+<li>🔭 Atualmente estou trabalhando como <strong>FullStack (Flutter && PHP && JQuery && CodeIgniter)</strong></li>
 <li>🌱 Atualmente estou aprendendo <strong>React Native e Node.js</strong></li>
 
 <h2>Sobre Mim</h2>
