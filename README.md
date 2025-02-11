@@ -46,7 +46,7 @@
   📆 setembro/2023 - janeiro/2024\
   📍 **Imaxis** - Francisco Beltrão, Brazil
 
-  - 📖 **Programador de Multimidia**\
+  - 📖 **Auxiliar de Programação**\
   📆 feveiro/2024 - aberto\
   📍 **Inovatio Solucoes e Tecnologia em Medicina LTDA** - Francisco Beltrão, Brazil
 
