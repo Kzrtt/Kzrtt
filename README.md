@@ -61,13 +61,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzrtt&theme=dracula&hide_border=false&&layout=compact"/>
 </div>
 
-<h2>Frameworks: </h2>
+<h2>Frameworks/Libs: </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kurt-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Kurt-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kurt-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg">
   <img align="center" alt="Kurt-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Kurt-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" style="max-width: 100%;">
 </div>
 
 <br>
