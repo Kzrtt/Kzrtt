@@ -59,7 +59,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzrtt&theme=dracula&hide_border=false&&layout=compact"/>
-   &nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src= "https://github-readme-stats-beryl-beta-19.vercel.app/api?username=kzrtt&show_icons=true&theme=dracula" /> 
 </div>
 
